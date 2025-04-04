@@ -143,13 +143,15 @@ section {
     background-color: #ffffff;
     color: #5e72e4;
     border: 2px solid #5e72e4;
-    padding: 1.5vh 3vw 1.5vh calc(3vw + 20px); /* 文字向右20px */
+    padding: 1.5vh 3vw;
     font-size: min(3vw, 2em);
     cursor: pointer;
     transition: all 0.3s;
-    border-radius: 25px; /* 增加圆角 */
+    border-radius: 25px;
     white-space: nowrap;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .check-button:hover, .check-button:active {
