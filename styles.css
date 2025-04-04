@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Minecraft';
-    src: url('https://cdn.jsdelivr.net/gh/muqiu-pika/hyplay-web@master/fonts/Minecraft_Ae.woff2') format('woff2');
+    src: url('fonts/Minecraft_Ae.woff2') format('woff2');
 }
 
 * {
