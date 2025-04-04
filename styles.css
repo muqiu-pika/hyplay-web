@@ -206,15 +206,11 @@ section {
     margin-bottom: 2vh;
 }
 
-.version-icon.java {
-    height: 13vh;
+.version-icon.java,
+.version-icon.bedrock {
+    height: 10vh; /* 统一设置为相同的高度 */
     position: relative;
     top: 5px;
-    margin-right: -5px; /* 向右移动5px */
-}
-
-.version-icon.bedrock {
-    height: 10vh;
 }
 
 /* 调整版本信息文字样式 */

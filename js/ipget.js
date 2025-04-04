@@ -55,7 +55,7 @@ const IPManager = {
         
         // 设置协议消息
         protocolMessage.innerHTML = isIPv6 
-            ? '您已拥有IPv6，立即加入低延迟游玩Hyplay！'
+            ? '您已拥有IPv6，立即低延迟游玩Hyplay！'
             : '您可以加入，但推荐您<a href="https://b23.tv/2rbQ6Cb" target="_blank">参考视频</a>开启IPv6后游玩';
         
         // 设置IP详情
