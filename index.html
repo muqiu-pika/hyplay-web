@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hyplay服务器</title>
+    <!-- 引用Font Awesome图标库 -->
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/font-awesome/6.7.2/css/all.css">
+    <!-- 引用fullPage.js的CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.css">
+    <!-- 引用自定义CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="light-theme">
+    <div class="top-bar">
+        <span>Hyplay服务器</span>
+        <div class="theme-toggle">
+            <i class="fas fa-moon"></i>
+        </div>
+    </div>
+    <div id="fullpage">
+        <div class="section">
+            <div class="first-page-content">
+                <h1 class="title">Hyplay服务器 入服检测</h1>
+                <button class="check-button" id="startCheck">立即开始检测！</button>
+            </div>
+        </div>
+        <div class="section">
+            <div class="ip-info-container">
+                <div class="server-versions">
+                    <div class="version-container">
+                        <img src="img/Java.png" alt="Java版" class="version-icon java">
+                        <div class="java-info">
+                            <h3>Java版</h3>
+                            <div class="server-address">
+                                <div><span class="ip-text">IP: </span></div>
+                                <div><span class="port-text">端口: </span></div>
+                            </div>
+                            <button class="copy-button">
+                                <i class="fas fa-copy"></i> 复制地址
+                            </button>
+                        </div>
+                    </div>
+                    <div class="version-container">
+                        <img src="img/Bedrock.jpg" alt="基岩版" class="version-icon bedrock">
+                        <div class="bedrock-info">
+                            <h3>基岩版</h3>
+                            <div class="server-address">
+                                <div><span class="ip-text">IP: </span></div>
+                                <div><span class="port-text">端口: </span></div>
+                            </div>
+                            <button class="copy-button">
+                                <i class="fas fa-copy"></i> 复制地址
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="ip-protocol-info">
+                    <div class="protocol-message"></div>
+                    <div class="ip-details"></div>
+                </div>
+            </div>
+        </div>
+        <div class="section">页面 3</div>
+        <div class="section">页面 4</div>
+        <div class="section">页面 5</div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"></script>
+    <script src="js/ipget.js"></script>
+    <script src="js/copy.js"></script>
+    <script>
+        let fullPageInstance = new fullpage('#fullpage', {
+            autoScrolling: true,
+            navigation: true
+        });
+
+        // 主题切换功能
+        const themeToggle = document.querySelector('.theme-toggle');
+        const themeIcon = themeToggle.querySelector('i');
+        
+        themeToggle.addEventListener('click', () => {
+            document.body.classList.toggle('light-theme');
+            document.body.classList.toggle('dark-theme');
+            
+            if(document.body.classList.contains('dark-theme')) {
+                themeIcon.classList.remove('fa-moon');
+                themeIcon.classList.add('fa-sun');
+            } else {
+                themeIcon.classList.remove('fa-sun');
+                themeIcon.classList.add('fa-moon');
+            }
+        });
+
+        // 点击检测按钮滚动到第二页
+        document.getElementById('startCheck').addEventListener('click', function() {
+            fullPageInstance.moveTo(2);
+        });
+    </script>
+</body>
+</html>
