@@ -72,6 +72,7 @@ section {
     font-size: 1.2em;
     padding: 0 2vw;
     color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* 添加阴影 */
 }
 
 .theme-toggle {
@@ -208,7 +209,8 @@ section {
 .version-icon.java {
     height: 13vh;
     position: relative;
-    top: 5px; /* 向下移动5px */
+    top: 5px;
+    margin-right: -5px; /* 向右移动5px */
 }
 
 .version-icon.bedrock {
