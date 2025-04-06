@@ -10,10 +10,17 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.css">
     <!-- 引用自定义CSS -->
     <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="ico/hyplay.ico" type="image/x-icon">
 </head>
 <body class="light-theme">
     <div class="top-bar">
-        <span>Hyplay服务器</span>
+        <div class="side-bar-toggle">
+            <i class="fas fa-bars"></i>
+        </div>
+        <div class="top-bar-content">
+            <img src="ico/hyplay.ico" alt="Logo" class="top-bar-icon">
+            <span> Hyplay服务器</span>
+        </div>
         <div class="theme-toggle">
             <i class="fas fa-moon"></i>
         </div>
@@ -66,9 +73,19 @@
         <div class="section">页面 5</div>
     </div>
 
+    <div id="loading-icon" class="loading-container">
+        <img src="ico/hyplay.ico" alt="Loading" class="bouncer">
+    </div>
+
+    <div class="side-bar">
+        <!-- 副栏内容 -->
+    </div>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"></script>
     <script src="js/ipget.js"></script>
     <script src="js/copy.js"></script>
+    <script src="js/loading.js"></script>
+    <script src="js/sidebar.js"></script>
     <script>
         let fullPageInstance = new fullpage('#fullpage', {
             autoScrolling: true,

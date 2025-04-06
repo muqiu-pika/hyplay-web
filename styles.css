@@ -16,6 +16,8 @@ body {
 }
 
 .section {
+    position: relative;
+    z-index: 1;
     transition: background-color 0.3s;
 }
 
@@ -37,7 +39,7 @@ body.light-theme {
 /* 暗黑主题样式 */
 body.dark-theme {
     background-color: #000000;
-    color: #ffffff;
+    color: rgba(220, 220, 220, 1); /* 白色略带灰色 */
 }
 .dark-theme .section {
     background-color: #000000;
@@ -72,7 +74,7 @@ section {
     font-size: 1.2em;
     padding: 0 2vw;
     color: #ffffff;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* 添加阴影 */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }
 
 .theme-toggle {
@@ -91,17 +93,8 @@ section {
     color: #ffffff;
 }
 
-.bottom-bar {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 10vh;
-    background-color: #000000;
+.light-theme .theme-toggle .fa-moon {
     color: #ffffff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .section:first-child {
@@ -200,7 +193,36 @@ section {
     align-items: center;
     gap: 2vh;
     text-align: center;
-    position: relative; /* 允许相对定位 */
+    position: relative;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgba(94, 114, 228, 0.1); /* 比#5e72e4更淡的颜色 */
+    overflow: hidden; /* 确保伪元素不超出边界 */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.version-container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: inherit;
+    backdrop-filter: blur(10px); /* 毛玻璃效果 */
+    z-index: 1; /* 毛玻璃效果层 */
+    border-radius: 15px;
+    pointer-events: none; /* 确保伪元素不影响交互 */
+}
+
+.version-container > * {
+    position: relative;
+    z-index: 2; /* 确保内容在毛玻璃效果之上 */
+}
+
+.version-container:hover {
+    transform: scale(1.05); /* 放大效果 */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* 添加阴影 */
 }
 
 .version-icon {
@@ -221,6 +243,7 @@ section {
     flex-direction: column;
     align-items: center;
     gap: 1vh;
+    z-index: 20;
 }
 
 .java-info h3, .bedrock-info h3 {
@@ -249,6 +272,7 @@ section {
     width: 80%;
     max-width: 800px;
     margin-top: auto;
+    font-size: 0.8em; /* 缩小字体大小 */
 }
 
 .protocol-message {
@@ -279,6 +303,16 @@ section {
     
     .java-info, .bedrock-info {
         text-align: right; /* 文字右对齐 */
+    }
+    .first-page-content {
+        gap: 10vh;
+    }
+    .title {
+        font-size: min(8vw, 3em);
+    }
+    .check-button {
+        padding: 1.5vh 3vw;
+        font-size: min(5vw, 2em);
     }
 }
 
@@ -355,4 +389,127 @@ section {
 .server-address {
     font-size: 1em;
     margin-bottom: 1vh;
+}
+
+.loading-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 1); /* 完全覆盖背景 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2000; /* 确保在所有内容之上 */
+}
+
+.bouncer {
+    width: 100px; /* 放大图标 */
+    height: 100px;
+    animation: bounce 1.2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* 关键帧动画 */
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0); /* 底部位置 */
+        animation-timing-function: ease-out;
+    }
+    50% {
+        transform: translateY(-60px); /* 弹跳高度 */
+        animation-timing-function: ease-in;
+    }
+}
+
+.top-bar-icon {
+    width: 2em; /* 进一步放大图标 */
+    height: 2em;
+    margin-right: 5px; /* 图标与文字之间的间距 */
+}
+
+.side-bar {
+    position: absolute;
+    top: calc(1.2em + 25px); /* 顶栏下方 */
+    left: -220px; /* 确保侧栏在未展开时完全隐藏 */
+    width: 220px; /* 增加侧栏宽度 */
+    height: calc(100vh - 1.2em - 25px); /* 不超过屏幕高度 */
+    background-color: #ffffff; /* 白色背景 */
+    color: #000000;
+    z-index: 1001; /* 在提示框下方 */
+    padding: 20px;
+    transition: left 0.3s ease; /* 滑出动画 */
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.3), 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.side-bar.open {
+    left: 0; /* 滑出到视口内 */
+}
+
+.side-bar-toggle {
+    font-size: 1.2em;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: transform 0.3s ease; /* 旋转动画 */
+}
+
+.side-bar-toggle.open {
+    transform: rotate(90deg); /* 变成叉号 */
+}
+
+.side-bar-toggle .fa-bars {
+    font-size: 1em;
+}
+
+/* 在窄屏下显示侧栏按钮 */
+@media (max-width: 768px) {
+    .side-bar-toggle {
+        display: block;
+    }
+    .top-bar-content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-grow: 1;
+    }
+    .top-bar-content img, .top-bar-content span {
+        display: inline-block;
+    }
+}
+
+.top-bar-content {
+    display: flex;
+    align-items: center;
+}
+
+@media (min-width: 769px) {
+    .top-bar-content {
+        justify-content: flex-start; /* 从左侧开始显示 */
+    }
+}
+
+.light-theme .loading-container {
+    background-color: rgba(255, 255, 255, 1); /* 明亮模式下为白色 */
+}
+
+.dark-theme .loading-container {
+    background-color: rgba(0, 0, 0, 1); /* 暗黑模式下为黑色 */
+}
+
+.dark-theme .version-container::before {
+    background: rgba(128, 128, 128, 0.5); /* 灰色背景 */
+}
+
+.dark-theme .side-bar {
+    background-color: rgba(128, 128, 128, 0.9); /* 灰色背景 */
+}
+
+.dark-theme .copy-toast {
+    background: rgba(128, 128, 128, 0.8); /* 灰色背景 */
+    color: rgba(200, 200, 200, 1); /* 比白色偏灰 */
+    border: 1px solid rgba(200, 200, 200, 1);
+}
+
+.dark-theme i {
+    color: rgba(220, 220, 220, 1); /* 白色略带灰色 */
 } 
