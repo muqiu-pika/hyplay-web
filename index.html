@@ -7,7 +7,7 @@
     <!-- 引用Font Awesome图标库 -->
     <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/font-awesome/6.7.2/css/all.css">
     <!-- 引用fullPage.js的CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/4.0.35/fullpage.min.css">
     <!-- 引用自定义CSS -->
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="ico/hyplay.ico" type="image/x-icon">
@@ -34,6 +34,7 @@
         </div>
         <div class="section">
             <div class="ip-info-container">
+                <h2 class="second-title third-title">入服方式</h2>
                 <div class="server-versions">
                     <div class="version-container">
                         <img src="img/Java.jpg" alt="Java版" class="version-icon java">
@@ -68,7 +69,14 @@
                 </div>
             </div>
         </div>
-        <div class="section">页面 3</div>
+        <div class="section">
+            <div class="third-page-content">
+                <h2 class="third-title">服务器信息</h2>
+                <div class="third-info-container">
+                    <!-- 这里可以放置服务器信息内容 -->
+                </div>
+            </div>
+        </div>
         <div class="section">页面 4</div>
         <div class="section">页面 5</div>
     </div>
@@ -81,15 +89,21 @@
         <!-- 副栏内容 -->
     </div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/4.0.35/fullpage.min.js"></script>
     <script src="js/ipget.js"></script>
     <script src="js/copy.js"></script>
     <script src="js/loading.js"></script>
     <script src="js/sidebar.js"></script>
     <script>
         let fullPageInstance = new fullpage('#fullpage', {
-            autoScrolling: true,
-            navigation: true
+            // 4.x 版本的配置项
+            scrollingSpeed: 700,
+            navigation: true,
+            navigationPosition: 'right',
+            showActiveTooltip: true,
+            slidesNavigation: true,
+            controlArrows: true,
+            verticalCentered: true
         });
 
         // 主题切换功能

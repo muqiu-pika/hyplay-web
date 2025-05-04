@@ -25,30 +25,32 @@ body {
 body.light-theme {
     background-color: #ffffff;
     color: #000000;
+    background-image: url('img/background_day.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .light-theme .section {
-    background-color: #ffffff;
+    background-color: transparent;
 }
 .light-theme .top-bar {
     background-color: #5e72e4;
-}
-.light-theme .section:first-child {
-    background-image: url('img/background_day.jpg');
 }
 
 /* 暗黑主题样式 */
 body.dark-theme {
     background-color: #000000;
     color: rgba(220, 220, 220, 1); /* 白色略带灰色 */
+    background-image: url('img/background_night.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .dark-theme .section {
-    background-color: #000000;
+    background-color: transparent;
 }
 .dark-theme .top-bar {
     background-color: #000000;
-}
-.dark-theme .section:first-child {
-    background-image: url('img/background_night.jpg');
 }
 
 /* 通用样式 */
@@ -59,6 +61,21 @@ section {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background: transparent;
+}
+
+/* 全局背景模糊效果 */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: inherit;
+    filter: blur(10px);
+    z-index: 0;
+    pointer-events: none;
 }
 
 .top-bar {
@@ -127,17 +144,21 @@ section {
 }
 
 .title {
-    font-size: min(5vw, 4em); /* 响应式字体大小 */
+    font-size: clamp(2.5rem, 10vw, 6rem); /* 字体更大 */
     text-align: center;
-    white-space: nowrap; /* 防止换行 */
+    white-space: normal; /* 允许自动换行 */
+    margin: 0 auto;
+    padding: 0 20px;
+    line-height: 1.15;
+    max-width: 90%;
 }
 
 .check-button {
     background-color: #ffffff;
     color: #5e72e4;
     border: 2px solid #5e72e4;
-    padding: 1.5vh 3vw;
-    font-size: min(3vw, 2em);
+    padding: 1.5vh 0;
+    font-size: clamp(1.2rem, 4vw, 2.5rem); /* 字体自适应更大 */
     cursor: pointer;
     transition: all 0.3s;
     border-radius: 25px;
@@ -145,6 +166,13 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
+    max-width: 500px;      /* 最大宽度限制 */
+    min-width: 180px;      /* 最小宽度限制 */
+    margin: 0 auto;        /* 居中 */
+    box-sizing: border-box;
+    padding-left: 6vw;     /* 左右留白，数值可根据实际调整 */
+    padding-right: 6vw;
 }
 
 .check-button:hover, .check-button:active {
@@ -196,7 +224,7 @@ section {
     position: relative;
     padding: 10px;
     border-radius: 15px;
-    background-color: rgba(94, 114, 228, 0.1); /* 比#5e72e4更淡的颜色 */
+    background-color: rgba(94, 114, 228, 0.2); /* 0.2透明度 */
     overflow: hidden; /* 确保伪元素不超出边界 */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -308,11 +336,15 @@ section {
         gap: 10vh;
     }
     .title {
-        font-size: min(8vw, 3em);
+        font-size: clamp(2rem, 10vw, 4rem); /* 小屏下也更大 */
+        white-space: normal;
+        line-height: 1.2;
     }
     .check-button {
-        padding: 1.5vh 3vw;
-        font-size: min(5vw, 2em);
+        font-size: clamp(1rem, 6vw, 2rem);
+        max-width: 98vw;
+        padding-left: 4vw;
+        padding-right: 4vw;
     }
 }
 
@@ -497,7 +529,7 @@ section {
 }
 
 .dark-theme .version-container::before {
-    background: rgba(128, 128, 128, 0.5); /* 灰色背景 */
+    background: rgba(128, 128, 128, 0.2); /* 0.2透明度的灰色背景 */
 }
 
 .dark-theme .side-bar {
@@ -512,4 +544,75 @@ section {
 
 .dark-theme i {
     color: rgba(220, 220, 220, 1); /* 白色略带灰色 */
+}
+
+/* 第三页内容整体布局 */
+.third-page-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    width: 100vw;
+    padding-top: 16vh; /* 离顶部距离更大 */
+    box-sizing: border-box;
+}
+
+/* 小标题样式 */
+.third-title {
+    font-size: clamp(1.5rem, 5vw, 3.5rem); /* 自动适配放大字体 */
+    font-weight: bold;
+    margin-bottom: 5vh;
+    letter-spacing: 2px;
+    color: #fff; /* 变成白色 */
+    text-align: center;
+}
+
+/* 信息容器样式，和第二页容器一致但更大 */
+.third-info-container {
+    width: 80vw;
+    max-width: 900px;
+    min-height: 45vh;
+    background-color: rgba(94, 114, 228, 0.2);
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 4vh 3vw;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* 可根据需要添加阴影 */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    position: relative;
+    z-index: 2;
+}
+
+/* 暗黑模式下的底色 */
+.dark-theme .third-info-container {
+    background-color: rgba(128, 128, 128, 0.2);
+}
+
+@media (max-width: 768px) {
+    .third-info-container {
+        width: 96vw;
+        max-width: 99vw;
+        padding: 3vh 2vw;
+        min-height: 35vh;
+    }
+    .third-title {
+        font-size: 1.3rem;
+        margin-bottom: 3vh;
+    }
+}
+
+.second-title {
+    margin-top: 8vh;      /* 增加顶部距离 */
+    margin-bottom: 5vh;
+}
+
+@media (max-width: 768px) {
+    .second-title {
+        margin-top: 4vh;
+        margin-bottom: 3vh;
+    }
 } 
