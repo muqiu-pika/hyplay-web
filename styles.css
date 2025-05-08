@@ -615,4 +615,7 @@ body::before {
         margin-top: 4vh;
         margin-bottom: 3vh;
     }
-} 
+}
+#fullpage {
+    margin-top: calc(1.2em + 20px); /* 与顶栏高度一致 */
+}
