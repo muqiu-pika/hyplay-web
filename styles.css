@@ -60,7 +60,8 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: calc(100vh - (1.2em + 20px)); /* 减去顶栏高度 */
+    margin-top: calc(1.2em + 20px); /* 添加顶栏高度的上边距 */
     background: transparent;
 }
 
@@ -137,7 +138,7 @@ body::before {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: calc(100vh - (1.2em + 20px));
     position: relative;
     z-index: 2;
     gap: 15vh;
@@ -194,14 +195,20 @@ body::before {
     background: #ffffff !important;
 }
 
+/* 删除页面间的深色线 */
+#fp-nav ul li a.active span,
+#fp-nav ul li a span {
+    border: none !important;
+}
+
 /* IP信息容器样式修改 */
 .ip-info-container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    height: 100vh;
-    padding: 4vh 2vh;
+    height: calc(100vh - (1.2em + 20px));
+    padding: 4vh 2vh 2vh 2vh; /* 减小底部padding */
 }
 
 /* 默认布局：水平排列 */
@@ -211,7 +218,7 @@ body::before {
     justify-content: center;
     align-items: flex-end;
     flex-wrap: wrap;
-    margin-top: auto;
+    margin-top: 4vh; /* 添加固定上边距 */
 }
 
 /* 版本容器样式 */
@@ -284,6 +291,7 @@ body::before {
     display: flex;
     align-items: center;
     gap: 0.5em;
+    white-space: nowrap; /* 防止文字换行 */
 }
 
 /* 调整输入框样式 */
@@ -299,7 +307,7 @@ body::before {
     text-align: center;
     width: 80%;
     max-width: 800px;
-    margin-top: auto;
+    margin-top: 2vh; /* 减小上边距 */
     font-size: 0.8em; /* 缩小字体大小 */
 }
 
@@ -331,6 +339,11 @@ body::before {
     
     .java-info, .bedrock-info {
         text-align: right; /* 文字右对齐 */
+    }
+    .java-info div, .bedrock-info div {
+        flex-direction: column; /* 窄屏下垂直排列 */
+        align-items: flex-end; /* 右对齐 */
+        gap: 0.3em; /* 减小间距 */
     }
     .first-page-content {
         gap: 10vh;
@@ -552,7 +565,7 @@ body::before {
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    height: 100vh;
+    height: calc(100vh - (1.2em + 20px));
     width: 100vw;
     padding-top: 16vh; /* 离顶部距离更大 */
     box-sizing: border-box;
@@ -560,7 +573,7 @@ body::before {
 
 /* 小标题样式 */
 .third-title {
-    font-size: clamp(1.5rem, 5vw, 3.5rem); /* 自动适配放大字体 */
+    font-size: clamp(2.5rem, 5vw, 3.5rem); /* 增大窄屏下的最小字体 */
     font-weight: bold;
     margin-bottom: 5vh;
     letter-spacing: 2px;
@@ -600,22 +613,23 @@ body::before {
         min-height: 35vh;
     }
     .third-title {
-        font-size: 1.3rem;
-        margin-bottom: 3vh;
+        font-size: clamp(2rem, 6vw, 3rem); /* 窄屏下字体更大 */
     }
 }
 
 .second-title {
     margin-top: 8vh;      /* 增加顶部距离 */
     margin-bottom: 5vh;
+    font-size: clamp(2.5rem, 5vw, 3.5rem); /* 与第三页标题保持一致 */
 }
 
 @media (max-width: 768px) {
     .second-title {
         margin-top: 4vh;
         margin-bottom: 3vh;
+        font-size: clamp(2rem, 6vw, 3rem); /* 窄屏下字体更大 */
     }
-}
-#fullpage {
-    margin-top: calc(1.2em + 20px); /* 与顶栏高度一致 */
-}
+    .third-title {
+        font-size: clamp(2rem, 6vw, 3rem); /* 窄屏下字体更大 */
+    }
+} 
