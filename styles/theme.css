@@ -1,0 +1,138 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url('../fonts/Minecraft_Ae.woff2') format('woff2');
+}
+
+* {
+    font-family: 'Minecraft', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 修改主题切换相关样式 */
+body {
+    transition: background-color 0.3s;
+}
+
+.section {
+    position: relative;
+    z-index: 1;
+    transition: background-color 0.3s;
+}
+
+/* 明亮主题样式 */
+body.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+    background-image: url('../img/background_day.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.light-theme .section {
+    background-color: transparent;
+}
+.light-theme .top-bar {
+    background-color: #5e72e4;
+}
+
+/* 第一页文字颜色 */
+.light-theme .first-page-content .title {
+    color: #ffffff;
+}
+
+/* 暗黑主题样式 */
+body.dark-theme {
+    background-color: #000000;
+    color: rgba(220, 220, 220, 1); /* 白色略带灰色 */
+    background-image: url('../img/background_night.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.dark-theme .section {
+    background-color: transparent;
+}
+.dark-theme .top-bar {
+    background-color: #000000;
+}
+
+/* 通用样式 */
+section {
+    text-align: center;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - (1.2em + 20px)); /* 减去顶栏高度 */
+    margin-top: calc(1.2em + 20px); /* 添加顶栏高度的上边距 */
+    background: transparent;
+}
+
+/* 全局背景模糊效果 */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: inherit;
+    filter: blur(10px);
+    z-index: 0;
+    pointer-events: none;
+}
+
+/* 顶栏样式 */
+.top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: calc(1.2em + 20px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    font-size: 1.2em;
+    padding: 0 2vw;
+    color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    background-color: inherit; /* 继承背景色 */
+}
+
+/* 主题切换按钮样式 */
+.theme-toggle {
+    font-size: 1.2em; /* 与顶栏文字大小相同 */
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    color: #ffffff;
+}
+
+/* 主题切换按钮颜色 */
+.light-theme .theme-toggle {
+    color: #000000;
+}
+.dark-theme .theme-toggle {
+    color: #ffffff;
+}
+
+.light-theme .theme-toggle .fa-moon {
+    color: #ffffff;
+}
+
+/* 暗黑模式下的图标颜色 */
+.dark-theme i {
+    color: rgba(220, 220, 220, 1); /* 白色略带灰色 */
+}
+
+/* 加载容器主题样式 */
+.light-theme .loading-container {
+    background-color: rgba(255, 255, 255, 1); /* 明亮模式下为白色 */
+}
+
+.dark-theme .loading-container {
+    background-color: rgba(0, 0, 0, 1); /* 暗黑模式下为黑色 */
+} 

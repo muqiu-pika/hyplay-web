@@ -1,0 +1,344 @@
+/* 第一页样式 */
+.section:first-child {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+}
+
+.section:first-child::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: inherit;
+    filter: blur(10px);
+    z-index: 1;
+}
+
+.first-page-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - (1.2em + 20px));
+    position: relative;
+    z-index: 2;
+    gap: 15vh;
+}
+
+.title {
+    font-size: clamp(2.5rem, 10vw, 6rem); /* 字体更大 */
+    text-align: center;
+    white-space: normal; /* 允许自动换行 */
+    margin: 0 auto;
+    padding: 0 20px;
+    line-height: 1.15;
+    max-width: 90%;
+}
+
+.check-button {
+    background-color: #ffffff;
+    color: #5e72e4;
+    border: 2px solid #5e72e4;
+    padding: 1.5vh 0;
+    font-size: clamp(1.8rem, 5vw, 3.2rem); /* 进一步增大字体大小 */
+    cursor: pointer;
+    transition: all 0.3s;
+    border-radius: 25px;
+    white-space: nowrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 500px;
+    min-width: 180px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding-left: 6vw;
+    padding-right: 6vw;
+}
+
+/* 暗黑模式下的按钮样式 */
+.dark-theme .check-button {
+    color: #000000;
+    border-color: #000000;
+}
+
+.check-button:hover, .check-button:active {
+    background-color: #5e72e4;
+    color: #ffffff;
+}
+
+/* 暗黑模式下的按钮悬停效果 */
+.dark-theme .check-button:hover,
+.dark-theme .check-button:active {
+    background-color: #4a4a4a;
+    color: #ffffff;
+    border-color: #4a4a4a;
+}
+
+/* 第二页样式 */
+.ip-info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: calc(100vh - (1.2em + 20px));
+    padding: 1vh 2vh 1vh 2vh; /* 减小顶部内边距，让容器向上移动 */
+}
+
+.server-versions {
+    display: flex;
+    gap: 6vw;
+    justify-content: center;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    margin-top: 0; /* 移除顶部边距 */
+}
+
+.version-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2vh;
+    text-align: center;
+    position: relative;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgba(94, 114, 228, 0.2);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 35vw;
+    min-height: 35vh;
+    padding-top: 3vh; /* 增加顶部内边距，让内容向下移动 */
+}
+
+/* 暗黑模式下的容器底色 */
+.dark-theme .version-container {
+    background-color: rgba(128, 128, 128, 0.2); /* 暗色模式下的灰色底色 */
+}
+
+.version-container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: inherit;
+    backdrop-filter: blur(10px); /* 毛玻璃效果 */
+    z-index: 1; /* 毛玻璃效果层 */
+    border-radius: 15px;
+    pointer-events: none; /* 确保伪元素不影响交互 */
+}
+
+.version-container > * {
+    position: relative;
+    z-index: 2; /* 确保内容在毛玻璃效果之上 */
+}
+
+.version-container:hover {
+    transform: scale(1.05); /* 放大效果 */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* 添加阴影 */
+}
+
+.version-icon {
+    width: auto;
+    margin-bottom: 3vh; /* 增加图标底部间距 */
+}
+
+.version-icon.java,
+.version-icon.bedrock {
+    height: 10vh; /* 统一设置为相同的高度 */
+    position: relative;
+    top: 5px;
+}
+
+.java-info, .bedrock-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1vh;
+    z-index: 20;
+}
+
+.java-info h3, .bedrock-info h3 {
+    font-size: 1.4em; /* 宽屏下增大标题字体 */
+    margin-bottom: 1vh;
+    color: #ffffff;
+}
+
+.java-info div, .bedrock-info div {
+    font-size: 1.1em; /* 宽屏下增大文字字体 */
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    white-space: nowrap; /* 防止文字换行 */
+    color: #ffffff;
+}
+
+.ip-protocol-info {
+    text-align: center;
+    width: 80%;
+    max-width: 800px;
+    margin-top: 1vh;
+    font-size: 0.8em;
+    color: #ffffff; /* 新增白色文字颜色 */
+}
+
+/* 第三页样式 */
+.third-page-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: calc(100vh - (1.2em + 20px));
+    width: 100vw;
+    padding-top: 16vh; /* 离顶部距离更大 */
+    box-sizing: border-box;
+}
+
+.third-title {
+    font-size: clamp(2.5rem, 5vw, 3.5rem); /* 增大窄屏下的最小字体 */
+    font-weight: bold;
+    margin-bottom: 5vh;
+    letter-spacing: 2px;
+    color: #fff; /* 变成白色 */
+    text-align: center;
+}
+
+.third-info-container {
+    width: 80vw;
+    max-width: 900px;
+    min-height: 45vh;
+    background-color: rgba(94, 114, 228, 0.15); /* 比#5e72e4浅一点 */
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 4vh 3vw;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    position: relative;
+    z-index: 2;
+}
+
+/* 暗黑模式下的底色 */
+.dark-theme .third-info-container {
+    background-color: rgba(128, 128, 128, 0.2); /* 暗色模式下的灰色底色 */
+}
+
+/* 响应式布局 */
+@media (max-width: 768px) {
+    .server-versions {
+        flex-direction: column;
+        align-items: center;
+        gap: 4vh;
+    }
+    
+    .version-container {
+        flex-direction: row;
+        align-items: center;
+        gap: 4vw;
+        justify-content: center;
+        width: 90vw;
+        padding: 10px 20px;
+        height: auto;
+        min-height: unset;
+    }
+    
+    .java-info, .bedrock-info {
+        text-align: center;
+    }
+    
+    .java-info div, .bedrock-info div {
+        flex-direction: column;
+        align-items: center;
+        gap: 0.3em;
+    }
+    
+    .version-icon {
+        margin-right: 10px;
+        height: 8vh; /* 窄屏下减小图标高度 */
+    }
+    
+    .version-icon.java,
+    .version-icon.bedrock {
+        height: 8vh; /* 窄屏下减小图标高度 */
+    }
+    
+    .first-page-content {
+        gap: 10vh;
+    }
+    
+    .title {
+        font-size: clamp(2rem, 10vw, 4rem); /* 小屏下也更大 */
+        white-space: normal;
+        line-height: 1.2;
+    }
+    
+    .check-button {
+        font-size: clamp(1rem, 6vw, 2rem);
+        max-width: 98vw;
+        padding-left: 4vw;
+        padding-right: 4vw;
+    }
+    
+    .third-info-container {
+        width: 96vw;
+        max-width: 99vw;
+        padding: 3vh 2vw;
+        min-height: 35vh;
+    }
+    
+    .third-title {
+        font-size: clamp(2rem, 6vw, 3rem); /* 窄屏下字体更大 */
+    }
+    
+    .ip-info-container {
+        padding: 2vh 2vh 1vh 2vh; /* 窄屏下也减小内边距 */
+    }
+    
+    .ip-protocol-info {
+        margin-top: 1vh; /* 窄屏下减小上边距 */
+    }
+}
+
+/* 标题样式 */
+.second-title {
+    margin-top: 8vh;      /* 增加顶部距离 */
+    margin-bottom: 5vh;
+    font-size: clamp(2.5rem, 5vw, 3.5rem); /* 与第三页标题保持一致 */
+}
+
+@media (max-width: 768px) {
+    .second-title {
+        margin-top: 4vh;
+        margin-bottom: 3vh;
+        font-size: clamp(2rem, 6vw, 3rem); /* 窄屏下字体更大 */
+    }
+}
+
+/* 调整容器宽度 */
+@media (min-width: 769px) {
+    .version-container {
+        width: 35vw;
+        min-height: 35vh;
+        padding-top: 4vh; /* 宽屏下增加更多顶部内边距 */
+    }
+    
+    .version-icon {
+        margin-bottom: 4vh; /* 宽屏下增加更多图标底部间距 */
+    }
+    
+    .java-info h3, .bedrock-info h3 {
+        font-size: 1.4em; /* 宽屏下增大标题字体 */
+    }
+    
+    .java-info div, .bedrock-info div {
+        font-size: 1.1em; /* 宽屏下增大文字字体 */
+    }
+}
