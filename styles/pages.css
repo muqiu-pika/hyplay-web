@@ -345,26 +345,60 @@
 
 .page {
   width: 100%;
-  height: 100vh; /* 使用视口高度 */
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 2rem;
   box-sizing: border-box;
-  overflow: hidden; /* 防止内容溢出 */
+  overflow: hidden;
+  position: relative;
 }
 
 .page-content {
   width: 100%;
-  max-width: 1200px; /* 设置最大宽度 */
+  max-width: 1200px;
   height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   transform-origin: center center;
-  transform: scale(var(--scale-factor, 1)); /* 添加缩放因子 */
+  transform: scale(var(--scale-factor, 1));
+  transition: transform 0.3s ease;
+  padding: 2rem; /* 添加内边距 */
+}
+
+/* 为第二、三、四页添加特殊样式 */
+.page[data-page="2"] .page-content,
+.page[data-page="3"] .page-content,
+.page[data-page="4"] .page-content {
+  width: 90%; /* 控制内容区域宽度 */
+  height: 90%; /* 控制内容区域高度 */
+  margin: auto;
+}
+
+/* 修改底部导航栏样式 */
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 1rem;
+  display: none; /* 默认隐藏 */
+  z-index: 1000;
+}
+
+/* 只在第五页显示底部导航栏 */
+.page[data-page="5"] .bottom-nav {
+  display: block;
+}
+
+/* 调整内容区域，为底部导航栏留出空间 */
+.page[data-page="5"] .page-content {
+  padding-bottom: 60px; /* 根据底部导航栏高度调整 */
 }
 
 /* 添加媒体查询以适应不同屏幕尺寸 */
