@@ -1,0 +1,1694 @@
+[
+  {
+    "name": "CCTV-1 综合",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228732/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV1.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-2 财经",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV2.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-3 综艺",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV3.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-4 中文国际",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV4.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-5 体育",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV5.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-5+ 体育赛事",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV5+.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-6 电影",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228516/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV6.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-7 国防军事",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV7.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-8 电视剧",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228578/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV8.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-9 纪录",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV9.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-10 科教",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV10.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-11 戏曲",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV11.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-12 社会与法",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV12.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-13 新闻",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV13.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-14 少儿",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV14.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-15 音乐",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228622/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV15.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-16 奥林匹克",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV16.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-17 农业农村",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV17.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-4K 超高清",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV4K.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-8K 超高清",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV8K.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-第一剧场",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV第一剧场.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-怀旧剧场",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV怀旧剧场.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-风云剧场",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV风云剧场.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-风云音乐",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV风云音乐.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-风云足球",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228668/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV风云足球.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-高尔夫·网球",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV高尔夫网球.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-女性时尚",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228674/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV女性时尚.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-世界地理",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV世界地理.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-央视台球",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV央视台球.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-央视文化精品",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV央视文化精品.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-兵器科技",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV兵器科技.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CCTV-电视指南",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV电视指南.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CETV-早期教育",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV早期教育.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CETV-1",
+    "url": "http://itv.uat.news/TVOD/5000000002000002652/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV1.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CETV-4",
+    "url": "http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV4.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CGTN",
+    "url": "http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "CGTN-纪录",
+    "url": "http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN纪录.png",
+    "group": "央视频道"
+  },
+  {
+    "name": "东南卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/东南卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "东方卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/东方卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "云南卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/云南卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "北京卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/北京卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "吉林卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/吉林卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "四川卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/四川卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "天津卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/天津卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "安徽卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/安徽卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "山东卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/山东卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "广东卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/广东卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "广西卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/广西卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "新疆卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/新疆卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "江苏卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "江西卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江西卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "河北卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/河北卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "河南卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/河南卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "浙江卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "海南卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/海南卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "深圳卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/深圳卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "湖北卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/湖北卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "湖南卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/湖南卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "甘肃卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228166/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/甘肃卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "贵州卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/贵州卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "辽宁卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/辽宁卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "重庆卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/重庆卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "青海卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/青海卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "三沙卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/三沙卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "黑龙江卫视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "西藏卫视",
+    "url": "http://php.jdshipin.com:8880/xztv.php?id=ws",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/西藏卫视.png",
+    "group": "卫视频道"
+  },
+  {
+    "name": "江苏城市",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228734/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏城市.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "江苏新闻",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228743/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏新闻.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "江苏综艺",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228731/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏综艺.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "江苏影视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏影视.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "江苏教育",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏教育.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "江苏体育•休闲",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228746/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏体育休闲.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "南京少儿",
+    "url": "http://ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京少儿.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "南京教科",
+    "url": "http://ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京教科.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "南京影视",
+    "url": "http://ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京影视.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "南京文旅纪录",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京文旅纪录.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "南京新闻综合",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京新闻综合.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "南京十八•生活",
+    "url": "http://ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京十八生活.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "无锡新闻综合",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/无锡新闻综合.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "常州新闻综合",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州新闻综合.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "常州都市",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州都市.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "常州生活",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州生活.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "常州公共",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州公共.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "南通新闻综合",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228462/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南通新闻综合.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "南通社教",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228448/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南通2.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "南通公共•崇川",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南通公共崇川.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "扬州江都台",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228323/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/扬州江都台.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "镇江新闻综合",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/镇江新闻综合.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "镇江社会民生",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227325/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/镇江2.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "镇江城市资讯",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/镇江3.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "泰州新闻综合",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/泰州1.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "泰州教育频道",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/泰州2.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "泰州公共频道",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/泰州3.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "徐州新闻综合",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/徐州1.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "徐州经济生活",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/徐州2.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "徐州文艺影视",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/徐州3.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "徐州公共频道",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/徐州4.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "淮安综合",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228834/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/淮安综合.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "淮安公共",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228840/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/淮安公共.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "淮安影视娱乐",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228837/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/淮安影视娱乐.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "连云港新闻综合",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/连云港新闻综合.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "连云港生活频道",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/连云港生活频道.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "盐城新闻综合",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/盐城1.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "盐城法制生活",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/盐城2.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "盐城城市公共",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/盐城3.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "宿迁综合",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/宿迁综合.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "宿迁公共",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/宿迁公共.png",
+    "group": "江苏地方"
+  },
+  {
+    "name": "纪实科教",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/北京纪实科教.png",
+    "group": "北京地方"
+  },
+  {
+    "name": "卡酷少儿",
+    "url": "http://itv.uat.news/TVOD/7851974109718180595/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/北京卡酷少儿.png",
+    "group": "北京地方"
+  },
+  {
+    "name": "上海新闻综合",
+    "url": "http://itv.uat.news/TVOD/5000000011000031110/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海新闻综合.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "第一财经",
+    "url": "http://itv.uat.news/TVOD/5000000010000027146/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海第一财经.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "东方影视",
+    "url": "http://itv.uat.news/TVOD/5000000010000032212/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海东方影视.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "五星体育",
+    "url": "http://itv.uat.news/TVOD/5000000010000017540/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海五星体育.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "上海都市",
+    "url": "http://itv.uat.news/TVOD/5000000010000018926/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海都市.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "哈哈炫动",
+    "url": "http://itv.uat.news/TVOD/5000000011000031123/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海哈哈炫动.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "都市剧场",
+    "url": "http://itv.uat.news/TVOD/5000000011000031111/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海都市剧场.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "欢笑剧场4K",
+    "url": "http://itv.uat.news/TVOD/5000000007000010001/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海欢笑剧场4K.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "动漫秀场",
+    "url": "http://itv.uat.news/TVOD/5000000011000031113/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海动漫秀场.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "乐游",
+    "url": "http://itv.uat.news/TVOD/5000000011000031112/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海乐游.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "东方财经",
+    "url": "http://itv.uat.news/TVOD/5000000007000010003/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海东方财经.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "法治天地",
+    "url": "http://itv.uat.news/TVOD/9001547084732463424/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海法治天地.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "游戏风云",
+    "url": "http://itv.uat.news/TVOD/5000000011000031114/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海游戏风云.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "魅力足球",
+    "url": "http://itv.uat.news/TVOD/5000000011000031207/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海魅力足球.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "生活时尚",
+    "url": "http://itv.uat.news/TVOD/5000000002000019634/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海生活时尚.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "金色学堂",
+    "url": "http://itv.uat.news/TVOD/5000000010000026105/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海金色学堂.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "劲爆体育",
+    "url": "http://itv.uat.news/TVOD/5000000002000029972/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海劲爆体育.png",
+    "group": "上海地方"
+  },
+  {
+    "name": "浙江钱江都市",
+    "url": "http://zhfivel02.cztv.com/channel02/1080p.m3u8?auth_key=2524708799-0-0-2f7bb420bfd1d218b9c7b07c0ac1ba2f",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江钱江都市.png",
+    "group": "浙江地方"
+  },
+  {
+    "name": "浙江经济生活",
+    "url": "http://zhfivel02.cztv.com/channel03/1080p.m3u8?auth_key=2524708799-0-0-76c0751e0f656453baf39803124fc08a",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江经济生活.png",
+    "group": "浙江地方"
+  },
+  {
+    "name": "浙江教科影视",
+    "url": "http://zhfivel02.cztv.com/channel04/1080p.m3u8?auth_key=2524708799-0-0-514823d0816d4af94a9f32bd7614ed67",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江教科影视.png",
+    "group": "浙江地方"
+  },
+  {
+    "name": "浙江新闻",
+    "url": "http://zhfivel02.cztv.com/channel07/1080p.m3u8?auth_key=2524708799-0-0-4af48ba83e791a300595dd0b2bb30e6e",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江新闻.png",
+    "group": "浙江地方"
+  },
+  {
+    "name": "浙江民生休闲",
+    "url": "http://zhfivel02.cztv.com/channel06/1080p.m3u8?auth_key=2524708799-0-0-59c4fe94512c59a90316fbf17ae2fbef",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江民生休闲.png",
+    "group": "浙江地方"
+  },
+  {
+    "name": "浙江少儿",
+    "url": "http://zhfivel02.cztv.com/channel08/1080p.m3u8?auth_key=2524708799-0-0-cf6f7ad5658d8f2fe423ac2b0d502083",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江少儿.png",
+    "group": "浙江地方"
+  },
+  {
+    "name": "浙江国际",
+    "url": "http://zhfivel02.cztv.com/channel10/1080p.m3u8?auth_key=2524708799-0-0-646cad31c1d94b002a325cd75475d30f",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江国际.png",
+    "group": "浙江地方"
+  },
+  {
+    "name": "浙江之江纪录",
+    "url": "http://zhfivel02.cztv.com/channel12/1080p.m3u8?auth_key=2524708799-0-0-19b0d66dea45971ba0087cbe8392e2d4",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江之江纪录.png",
+    "group": "浙江地方"
+  },
+  {
+    "name": "金鹰纪实",
+    "url": "http://itv.uat.news/TVOD/5000000011000031203/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/湖南金鹰纪实.png",
+    "group": "湖南地方"
+  },
+  {
+    "name": "快乐垂钓",
+    "url": "http://itv.uat.news/TVOD/5000000011000031206/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/湖南快乐垂钓.png",
+    "group": "湖南地方"
+  },
+  {
+    "name": "茶频道",
+    "url": "http://itv.uat.news/TVOD/5000000011000031209/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/湖南茶频道.png",
+    "group": "湖南地方"
+  },
+  {
+    "name": "金鹰卡通",
+    "url": "http://itv.uat.news/TVOD/5000000006000040024/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/湖南金鹰卡通.png",
+    "group": "湖南地方"
+  },
+  {
+    "name": "广东珠江",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=gdzj",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/广东珠江.png",
+    "group": "广东地方"
+  },
+  {
+    "name": "广东体育",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=gdty",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/广东体育.png",
+    "group": "广东地方"
+  },
+  {
+    "name": "南国都市",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=gzngds",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/广州南国都市.png",
+    "group": "广东地方"
+  },
+  {
+    "name": "黑龙江影视",
+    "url": "http://php.jdshipin.com/TVOD/hljyd.php?id=3221226298",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江影视.png",
+    "group": "黑龙江地方"
+  },
+  {
+    "name": "黑龙江文体",
+    "url": "http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江文体.png",
+    "group": "黑龙江地方"
+  },
+  {
+    "name": "黑龙江都市",
+    "url": "http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江都市.png",
+    "group": "黑龙江地方"
+  },
+  {
+    "name": "黑龙江新闻法治",
+    "url": "http://php.jdshipin.com/TVOD/hljyd.php?id=3221226330",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江新闻法治.png",
+    "group": "黑龙江地方"
+  },
+  {
+    "name": "黑龙江农业•科教",
+    "url": "http://php.jdshipin.com/TVOD/hljyd.php?id=3221226242",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江农业科教.png",
+    "group": "黑龙江地方"
+  },
+  {
+    "name": "黑龙江少儿",
+    "url": "http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江少儿.png",
+    "group": "黑龙江地方"
+  },
+  {
+    "name": "哈尔滨新闻综合",
+    "url": "http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/哈尔滨新闻综合.png",
+    "group": "黑龙江地方"
+  },
+  {
+    "name": "炫舞未来",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV炫舞未来.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "热播精选",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV热播精选.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "潮妈辣婆",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV潮妈辣婆.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "中国功夫",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV中国功夫.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "武搏世界",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV武搏世界.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "惊悚悬疑",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV惊悚悬疑.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "海外剧场",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV海外剧场.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "金牌综艺",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV金牌综艺.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "古装剧场",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV古装剧场.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "军事评论",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV军事评论.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "精品纪录",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品纪录.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "爱情喜剧",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV爱情喜剧.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "农业致富",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV农业致富.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "明星大片",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV明星大片.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "家庭剧场",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV家庭剧场.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "军旅剧场",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV军旅剧场.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "动作电影",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV动作电影.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "怡伴健康",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV怡伴健康.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "精品体育",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品体育.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "精品大剧",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品大剧.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "精品萌宠",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品萌宠.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "精品综合",
+    "url": "http://itv.uat.news/TVOD/1000000004000019008/ystenlive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品综合.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "欢乐剧场",
+    "url": "http://itv.uat.news/TVOD/1000000005000266012/ystenlive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV欢乐剧场.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "东北热剧",
+    "url": "http://itv.uat.news/TVOD/2000000003000000051/hnbblive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV东北热剧.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "超级综艺",
+    "url": "http://itv.uat.news/TVOD/1000000004000023658/ystenlive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级综艺.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "超级电影",
+    "url": "http://itv.uat.news/TVOD/1000000001000012884/ystenlive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级电影.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "超级体育",
+    "url": "http://itv.uat.news/TVOD/1000000001000009601/ystenlive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级体育.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "超级电视剧",
+    "url": "http://itv.uat.news/TVOD/1000000001000008139/ystenlive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级电视剧.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "魅力潇湘",
+    "url": "http://itv.uat.news/TVOD/1000000001000006197/ystenlive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV魅力潇湘.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "哒啵赛事",
+    "url": "http://ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV哒啵赛事.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "哒啵电竞",
+    "url": "http://itv.uat.news/TVOD/1000000006000032327/ystenlive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV哒啵电竞.png",
+    "group": "NewTV"
+  },
+  {
+    "name": "华语影院",
+    "url": "http://itv.uat.news/TVOD/5000000011000288005/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "星光影院",
+    "url": "http://itv.uat.news/TVOD/5000000011000288013/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "全球大片",
+    "url": "http://itv.uat.news/TVOD/5000000011000288009/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "热门剧场",
+    "url": "http://itv.uat.news/TVOD/5000000011000288010/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "谍战剧场",
+    "url": "http://itv.uat.news/TVOD/5000000011000288004/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "青春动漫",
+    "url": "http://itv.uat.news/TVOD/5000000011000288008/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "宝宝动画",
+    "url": "http://itv.uat.news/TVOD/5000000011000288002/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "戏曲精选",
+    "url": "http://itv.uat.news/TVOD/5000000011000288012/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "热门综艺",
+    "url": "http://itv.uat.news/TVOD/5000000011000288011/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "健康养生",
+    "url": "http://itv.uat.news/TVOD/5000000011000288006/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "百变课堂",
+    "url": "http://itv.uat.news/TVOD/5000000011000288001/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "看天下精选",
+    "url": "http://itv.uat.news/TVOD/5000000011000288007/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "电竞天堂",
+    "url": "http://itv.uat.news/TVOD/5000000011000288003/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTV.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "BesTV直播1",
+    "url": "http://itv.uat.news/TVOD/5000000001000001116/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTVLive.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "BesTV直播2",
+    "url": "http://itv.uat.news/TVOD/5000000001000004876/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/BesTVLive.png",
+    "group": "BesTV"
+  },
+  {
+    "name": "爱谍战",
+    "url": "http://itv.uat.news/TVOD/6000000006000070630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱谍战.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱动漫",
+    "url": "http://itv.uat.news/TVOD/6000000006000280630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱动漫.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱科幻",
+    "url": "http://itv.uat.news/TVOD/6000000006000020630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱科幻.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱科学",
+    "url": "http://itv.uat.news/TVOD/6000000006000160630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱科学.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱浪漫",
+    "url": "http://itv.uat.news/TVOD/6000000006000040630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱浪漫.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱历史",
+    "url": "http://itv.uat.news/TVOD/6000000006000150630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱历史.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱旅行",
+    "url": "http://itv.uat.news/TVOD/6000000006000250630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱旅行.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱奇谈",
+    "url": "http://itv.uat.news/TVOD/6000000006000270630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱奇谈.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱赛车",
+    "url": "http://itv.uat.news/TVOD/6000000006000240630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱赛车.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱体育",
+    "url": "http://itv.uat.news/TVOD/6000000006000290630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱体育.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱玩具",
+    "url": "http://itv.uat.news/TVOD/6000000006000220630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱玩具.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱喜剧",
+    "url": "http://itv.uat.news/TVOD/6000000006000010630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱喜剧.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱悬疑",
+    "url": "http://itv.uat.news/TVOD/6000000006000050630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱悬疑.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱幼教",
+    "url": "http://itv.uat.news/TVOD/6000000006000180630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱幼教.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "爱院线",
+    "url": "http://itv.uat.news/TVOD/6000000006000030630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱院线.png",
+    "group": "iHOT"
+  },
+  {
+    "name": "求索生活",
+    "url": "http://itv.uat.news/TVOD/2000000004000000008/hnbblive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/求索生活.png",
+    "group": "求索频道"
+  },
+  {
+    "name": "求索动物",
+    "url": "http://itv.uat.news/TVOD/2000000004000000009/hnbblive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/求索动物.png",
+    "group": "求索频道"
+  },
+  {
+    "name": "求索纪录",
+    "url": "http://itv.uat.news/TVOD/2000000004000000010/hnbblive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/求索纪录.png",
+    "group": "求索频道"
+  },
+  {
+    "name": "求索科学",
+    "url": "http://itv.uat.news/TVOD/2000000004000000011/hnbblive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/求索科学.png",
+    "group": "求索频道"
+  },
+  {
+    "name": "抖音热歌",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕音乐.png",
+    "group": "咪咕频道"
+  },
+  {
+    "name": "流行音乐",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228794/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕音乐.png",
+    "group": "咪咕频道"
+  },
+  {
+    "name": "咪咕体育",
+    "url": "http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕体育.png",
+    "group": "咪咕频道"
+  },
+  {
+    "name": "咪咕视频",
+    "url": "http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕视频.png",
+    "group": "咪咕频道"
+  },
+  {
+    "name": "睛彩篮球",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩篮球.png",
+    "group": "咪咕频道"
+  },
+  {
+    "name": "睛彩竞技",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩竞技.png",
+    "group": "咪咕频道"
+  },
+  {
+    "name": "睛彩青少",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228729/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩青少.png",
+    "group": "咪咕频道"
+  },
+  {
+    "name": "睛彩广场舞",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩广场舞.png",
+    "group": "咪咕频道"
+  },
+  {
+    "name": "纯享4K",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/纯享4K.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "4K修复",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/4K修复.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "华数4K",
+    "url": "http://itv.uat.news/TVOD/2000000004000000014/hnbblive/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/华数4K.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "居家健身",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228454/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/居家健身.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "百姓生活",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/百姓生活.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "美食美味",
+    "url": "http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/美食美味.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "热门综艺",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228591/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/热门综艺.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "音乐心情",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228592/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/QQ音乐.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "影综金曲",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228641/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/QQ音乐.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "健康生活",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228706/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/健康生活.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "高分电影",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228644/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/电影.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "第一院线",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228740/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/第一院线.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "黑莓电影",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑莓电影.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "黑莓动画",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑莓动画.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "动物世界",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228559/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/动物世界.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "动漫星空",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228579/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/动漫星空.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "儿童天地",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228603/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/儿童天地.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "亲宝玩具",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/亲宝玩具.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "自然地理",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228723/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/自然地理.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "怀旧MTV",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/怀旧MTV.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "力量影院",
+    "url": "http://php.jdshipin.com:8880/1905.php?id=1905dy",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/1905.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "环球经典",
+    "url": "http://php.jdshipin.com:8880/1905.php?id=1905dy2",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/1905.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "重温经典",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=cwjd",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/重温经典.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "精彩影视",
+    "url": "http://itv.uat.news/TVOD/6000000006000320630/wasusyt/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/精彩影视.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "中国天气",
+    "url": "http://itv.uat.news/TVOD/5000000005000031974/bestzb/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/中国天气.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "CHC影迷电影",
+    "url": "http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CHC影迷电影.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "CHC动作电影",
+    "url": "http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CHC动作电影.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "CHC家庭影院",
+    "url": "http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CHC家庭影院.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "LOVE NATURE",
+    "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/LoveNature.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "Wild Earth",
+    "url": "https://wildearth-plex.amagi.tv/masterR1080p.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/WildEarth.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "4K TRAVEL",
+    "url": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/4KTravel.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "Fashion TV",
+    "url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/FTVUHD.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "Loupe",
+    "url": "https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/Loupe.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "RedBull TV",
+    "url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RedBullTV.png",
+    "group": "数字频道"
+  },
+  {
+    "name": "凤凰卫视香港台",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/凤凰卫视香港台.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "凤凰卫视中文台",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/凤凰卫视中文台.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "凤凰卫视资讯台",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/凤凰卫视资讯台.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "TVB明珠台",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=mzt2",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TVB明珠台.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "TVB翡翠台",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=fct4",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TVB翡翠台.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "TVB无线新闻台",
+    "url": "http://php.jdshipin.com/smt.php?id=inews_twn",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TVB无线新闻台.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "TVBJ1",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=j1",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TVBJ1.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "TVB Plus",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=j2",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TVBPlus.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "ViuTV",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=viutv",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/ViuTV.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "HOY TV",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=hoytv",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/HOYTV.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "港台电视31",
+    "url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RTHK31.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "港台电视32",
+    "url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RTHK32.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "澳视澳门",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=asam",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/澳视澳门.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "澳门Macau",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=as",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/澳门Macau.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "Taiwan Plus",
+    "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TaiwanPlus.png",
+    "group": "港澳频道"
+  },
+  {
+    "name": "亚洲新闻",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CNA.png",
+    "group": "海外频道"
+  },
+  {
+    "name": "半岛新闻",
+    "url": "http://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/半岛新闻.png",
+    "group": "海外频道"
+  },
+  {
+    "name": "美国之音",
+    "url": "https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/VOA.png",
+    "group": "海外频道"
+  },
+  {
+    "name": "AXS TV Now",
+    "url": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/AXSTV.png",
+    "group": "海外频道"
+  },
+  {
+    "name": "Wion News",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/WION.png",
+    "group": "海外频道"
+  },
+  {
+    "name": "Trace Sports",
+    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TraceSports.png",
+    "group": "海外频道"
+  },
+  {
+    "name": "CBN News",
+    "url": "https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CBNNews.png",
+    "group": "海外频道"
+  },
+  {
+    "name": "NEWSMAX2",
+    "url": "http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NEWSMAX2.png",
+    "group": "海外频道"
+  },
+  {
+    "name": "RT News",
+    "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RT.png",
+    "group": "海外频道"
+  },
+  {
+    "name": "RT Documentary",
+    "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RTDoc.png",
+    "group": "海外频道"
+  },
+  {
+    "name": "Arirang",
+    "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/Arirang.png",
+    "group": "海外频道"
+  },
+  {
+    "name": "MBC",
+    "url": "https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/MBC.png",
+    "group": "海外频道"
+  }
+]
